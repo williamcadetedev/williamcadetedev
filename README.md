@@ -25,6 +25,9 @@
   <a href="https://instagram.com/williamwonka">
     <img src="https://img.shields.io/badge/Instagram-@williamwonka-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/williamlima-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-William%20Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de William Lima" />
+  </a>
 
 
 ---
