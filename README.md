@@ -4,7 +4,7 @@
 🇧🇷 Brazil
 
 
-**I'm learning to build web applications and putting my knowledge into practice through projects. My goal is to grow as a Full Stack developer and build solutions to everyday problems.**.
+**I'm learning to build web applications and putting my knowledge into practice through projects. My goal is to grow as a Full Stack developer and build solutions to everyday problems.**
 
 🚀 What I'm Studying
 
