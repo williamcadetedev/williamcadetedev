@@ -1,4 +1,4 @@
-# Hi 👋, I'm Herbert Souza
+# Hi 👋, I'm William Lima
 
 🚀 **A first-semester Systems Analysis and Development (ADS) student, beginning my journey in software development.**  
 🇧🇷 Brazil
