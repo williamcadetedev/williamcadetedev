@@ -41,6 +41,15 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=williamcadetedev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamcadetedev&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ## 🚀 Philosophy
 
 > _"I believe in learning by building, understanding the fundamentals, and improving through practice. Every project is an opportunity to turn knowledge into solutions, learn from mistakes, and grow as a developer."_
